@@ -1,0 +1,5 @@
+dnspython
+psycopg2-binary
+sqlalchemy
+injector
+starlette
